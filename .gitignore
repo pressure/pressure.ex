@@ -1,4 +1,9 @@
+.eunit
+*.o
+*.beam
+*.plt
 /ebin
 /deps
 /erl_crash.dump
 /tmp
+/share
